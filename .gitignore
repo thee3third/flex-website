@@ -1,0 +1,17 @@
+# 作業用フォルダ（公開サイトに含めない）
+.superpowers/
+_houkousei/
+
+# メモ・マニュアル類（公開不要）
+DEPLOY-MEMO.txt
+images/gallery/README.txt
+images/products/商品の追加方法.txt
+
+# OS / エディタが作る不要ファイル
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+
+# 重複写真フォルダ（images/gallery と同一・サイト未使用）
+写真/
