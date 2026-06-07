@@ -15,3 +15,10 @@ desktop.ini
 
 # 重複写真フォルダ（images/gallery と同一・サイト未使用）
 写真/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
